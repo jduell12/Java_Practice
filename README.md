@@ -11,3 +11,5 @@ Several Projects in order to practice coding in Java:
 4. A program that is a mad-lib game. It prompts the user for a noun, verb, adverb and an adjective and injects those words into the story. (MadLib)
 
 5. A program that prompts user for two numbers and proceeds to print out the sum, difference, product and quotient of those numbers. (SimpleMath)
+
+6. A program that determines how many years you have left until retirement and the year you can retire. Prompts the user for their current age and age they want to retire. It displays the users age, when they'd like to reitre, how many years they have left until they can retire and what year they will retire in.
