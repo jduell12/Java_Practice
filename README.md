@@ -2,8 +2,10 @@
 
 Several Projects in order to practice coding in Java: 
 
-1. Create a program that prompts the user for their name and prints a greeting using that name. (Hello_World)
+1. A program that prompts the user for their name and prints a greeting using that name. (Hello_World)
 
-2. Create a program that prompts for an input string and displays ouput that shows the input string and the number of characters the string contains (CountingCharacters)
+2. A program that prompts for an input string and displays ouput that shows the input string and the number of characters the string contains (CountingCharacters)
 
-3. Create a program that prompts for a quote and an author and then displays the quotation and author. (Quote)
+3. A program that prompts for a quote and an author and then displays the quotation and author. (Quote)
+
+4. A program that is a mad-lib game. It prompts the user for a noun, verb, adverb and an adjective and injects those words into the story.
