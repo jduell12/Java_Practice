@@ -8,4 +8,6 @@ Several Projects in order to practice coding in Java:
 
 3. A program that prompts for a quote and an author and then displays the quotation and author. (Quote)
 
-4. A program that is a mad-lib game. It prompts the user for a noun, verb, adverb and an adjective and injects those words into the story.
+4. A program that is a mad-lib game. It prompts the user for a noun, verb, adverb and an adjective and injects those words into the story. (MadLib)
+
+5. A program that prompts user for two numbers and proceeds to print out the sum, difference, product and quotient of those numbers. (SimpleMath)
